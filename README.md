@@ -1,2 +1,1 @@
-# IMDB Clone
- 
+# IMDb-clone
